@@ -1,0 +1,43 @@
+# gif [input] [width]
+gif(){
+  ffmpeg -i $1 -vf scale=$2:-1 -pix_fmt rgb8 -r 10 -f gif - | gifsicle --optimize=3 --delay=3 > $1.gif
+}
+
+# file system
+alias l='ls -GFhal'
+alias ..='cd ../'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias .....='cd ../../../../'
+
+# git
+alias g='git'
+alias gs='g status'
+alias gl='g log --oneline -n 20'
+alias ga='g add .'
+alias gc='g commit -m'
+alias gp='g push'
+alias nah='g reset --hard;git clean -df'
+
+# npm
+alias ni='npm install'
+alias nu='npm update'
+alias nun='npm uninstall'
+alias nl='npm list --depth=0'
+alias ng='npm -g'
+alias no='npm outdated'
+alias ngi='npm -g install'
+alias ngu='npm -g update'
+alias ngun='npm -g uninstall'
+alias ngl='npm -g list --depth=0'
+alias ngo='npm -g outdated'
+
+# sharepoint
+alias workbench='gulp serve'
+
+# list aliases
+alias aliases='cat ~/.alias'
+
+# just for fun
+alias shrug="echo '¯\_(ツ)_/¯'"
+alias fight="echo '(ง'̀-'́)ง'"
