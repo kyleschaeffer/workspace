@@ -4,6 +4,21 @@ alias ..='cd ../'
 alias ...='cd ../../'
 alias ....='cd ../../../'
 alias .....='cd ../../../../'
+alias t='tree'
+alias t1='t -L 1'
+alias t2='t -L 2'
+alias td='t -d'
+alias rmf='rm -rf'
+
+# rma [filename]
+rma(){
+  find . -name "$1" -depth -exec rm {} \;
+}
+
+# rmfa [foldername]
+rmfa(){
+  find . -name "$1" -depth -exec rm -rf {} \;
+}
 
 # git
 alias g='git'
@@ -30,37 +45,34 @@ alias ngl='npm -g list --depth=0'
 alias ngo='npm -g outdated'
 alias nfresh='rm -rf node_modules && ni'
 
-# composer
-alias c='composer'
-alias cu='c update'
-alias ci='c install'
-alias cda='c dump-autoload -o'
-alias cg='composer global'
-alias cgu='composer global update'
-alias cgi='composer global install'
+# yarn
+alias yi='yarn install'
+alias ya='yarn add'
+alias yr='yarn remove'
+alias yu='yarn upgrade'
+alias yl='yarn list --depth=0'
+alias yll='yarn list --depth=1'
+alias ylll='yarn list --depth=2'
+alias yout='yarn outdated'
+alias yfresh='rmf node_modules && yi'
+alias scripts='yarn run --non-interactive'
 
-# laravel
-alias a='php artisan'
-alias tinker='a tinker'
-alias migrate='a migrate'
-alias fresh='a migrate:fresh --seed'
-alias rl='a route:list'
-alias t='phpunit'
-
-# sharepoint
-alias workbench='NODE_NO_HTTP2=1 gulp serve'
-alias bundle='gulp bundle --ship'
-alias pack='gulp package-solution --ship'
-alias ship='bundle && pack && open ./sharepoint/solution'
+# project setup
+alias tsj='yo typescript-jest && git init'
 
 # gif [input] [width]
 gif(){
   ffmpeg -i $1 -vf scale=$2:-1 -pix_fmt rgb8 -r 10 -f gif - | gifsicle --optimize=3 --delay=3 > $1.gif
 }
 
+# list aliases
+alias aliases='cat ~/.alias'
+alias edit-aliases='code ~/.alias'
+
+# edit profile
+alias edit-profile='code ~/.zshrc'
+alias reload-profile='source ~/.zshrc'
+
 # just for fun
 alias shrug="echo '¯\_(ツ)_/¯'"
 alias fight="echo '(ง'̀-'́)ง'"
-
-# list aliases
-alias aliases='cat ~/.alias'

@@ -16,45 +16,30 @@ If you’re curious about a setting, extension, theme, or font that you may see 
 6. [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 7. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 8. [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
-9. [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-10. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-11. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-12. [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-13. [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
-14. [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-15. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-16. [Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan)
-17. [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
-18. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-19. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-20. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-21. [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
-22. [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)
-23. [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
-24. [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
-25. [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
-26. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
-27. [Sass Lint](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint)
-28. [snippet-creator](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator)
-29. [SPFlash](https://marketplace.visualstudio.com/items?itemName=spiritous.spflash)
-30. [SPGo](https://marketplace.visualstudio.com/items?itemName=SiteGo.spgo)
-31. [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-32. [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+9. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+10. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+11. [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+12. [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
+13. [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+14. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+15. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+16. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+17. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+18. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+19. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+20. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+21. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+22. [snippet-creator](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator)
+23. [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+24. [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
+25. [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+26. [TSLint Vue](https://marketplace.visualstudio.com/items?itemName=prograhammer.tslint-vue)
+27. [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+28. [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 
 ## Terminal
 
-[Hyper](https://hyper.is/) is my terminal application of choice. My Hyper configuration can be found in [.hyper.js](.hyper.js). I currently use the [hyper-material-theme](https://hyper.is/plugins/hyper-material-theme) with [Fira Code](https://github.com/tonsky/FiraCode) as my terminal font.
-
-### Hyper Plugins
-
-1. [hyper-material-theme](https://github.com/equinusocio/hyper-material-theme)
-2. [hyper-search](https://github.com/jaanauati/hyper-search)
-3. [hyper-statusline](https://github.com/henrikdahl/hyper-statusline)
-4. [hypercwd](https://github.com/hharnisc/hypercwd)
-
-### Terminal Improvements
-
-I also make a few modifications to terminal prompt, which you can view in [.bash_profile](.bash_profile). I have created a handful of aliases that are loaded into this file as well, found in [.alias](.alias).
+[iTerm2](https://iterm2.com/) and [zsh](https://ohmyz.sh/) is my terminal application of choice. My iTerm2 configuration can be found in [zsh-profile.json](zsh-profile.json) and [.zshrc](.zshrc). I currently use the [OceanicMaterial](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/OceanicMaterial.itermcolors) color theme with [Fira Code](https://github.com/tonsky/FiraCode) as my terminal font.
 
 ## Operating System and Hardware
 

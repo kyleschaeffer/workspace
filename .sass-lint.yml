@@ -1,6 +1,0 @@
-rules:
-  indentation:
-    - size: 2
-  mixins-before-declarations:
-    - 1
-    - exclude: ['mq-up', 'mq-down', 'mq-between']
