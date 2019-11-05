@@ -39,7 +39,7 @@ If you’re curious about a setting, extension, theme, or font that you may see 
 
 ## Terminal
 
-[iTerm2](https://iterm2.com/) and [zsh](https://ohmyz.sh/) is my terminal application of choice. My iTerm2 configuration can be found in [zsh-profile.json](zsh-profile.json) and [.zshrc](.zshrc). I currently use the [OceanicMaterial](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/OceanicMaterial.itermcolors) color theme with [Fira Code](https://github.com/tonsky/FiraCode) as my terminal font.
+[iTerm2](https://iterm2.com/) and [zsh](https://ohmyz.sh/) is my terminal application of choice. My iTerm2 configuration can be found in [zsh-profile.json](zsh-profile.json) and [.zshrc](.zshrc). I’m a big fan of aliases, which can be found [.alias](.alias). I currently use the [OceanicMaterial](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/OceanicMaterial.itermcolors) color theme with [Fira Code](https://github.com/tonsky/FiraCode) as my terminal font.
 
 ## Operating System and Hardware
 
