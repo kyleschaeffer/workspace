@@ -11,7 +11,6 @@ If you’re curious about a setting, extension, theme, or font that you may see 
 1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 1. [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
 1. [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-1. [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 1. [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 1. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
