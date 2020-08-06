@@ -23,11 +23,17 @@ rmfa(){
 # git
 alias g='git'
 alias gs='g status'
-alias gl='g log --oneline -n 20'
+alias gl='git log --graph --decorate --pretty=oneline --abbrev-commit -n 30'
+alias gll='git log --graph --decorate --pretty=oneline --abbrev-commit'
 alias ga='g add .'
 alias gc='g commit -m'
 alias gp='g push'
+alias gk='g fetch && g checkout'
 alias nah='g reset --hard;git clean -df'
+alias gd='git diff --stat'
+gdf(){
+  git diff $1 -- $2
+}
 
 # npm
 alias ni='npm install'
@@ -53,6 +59,7 @@ alias yu='yarn upgrade'
 alias yl='yarn list --depth=0'
 alias yll='yarn list --depth=1'
 alias ylll='yarn list --depth=2'
+alias yls='yarn list --depth=0 --pattern'
 alias yout='yarn outdated'
 alias yfresh='rmf node_modules && yi'
 alias scripts='yarn run --non-interactive'

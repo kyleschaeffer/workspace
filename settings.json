@@ -16,12 +16,7 @@
   "editor.tabCompletion": "on",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "vue",
-    "vue-html"
-  ],
+  "eslint.validate": ["javascript", "javascriptreact", "vue", "vue-html"],
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
@@ -67,5 +62,5 @@
   },
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  }
 }

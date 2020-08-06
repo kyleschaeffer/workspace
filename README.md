@@ -8,34 +8,35 @@ If you’re curious about a setting, extension, theme, or font that you may see 
 
 ### Code Extensions
 
-1. [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
-2. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
-3. [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-4. [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-5. [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
-6. [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
-7. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-8. [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
-9. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-10. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-11. [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-12. [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
-13. [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-14. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-15. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-16. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-17. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-18. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-19. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-20. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
-21. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-22. [snippet-creator](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator)
-23. [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
-24. [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
-25. [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-26. [TSLint Vue](https://marketplace.visualstudio.com/items?itemName=prograhammer.tslint-vue)
-27. [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-28. [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+1. [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
+1. [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
+1. [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+1. [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+1. [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
+1. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+1. [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
+1. [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+1. [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+1. [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+1. [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+1. [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
+1. [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+1. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+1. [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+1. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+1. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+1. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+1. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+1. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+1. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+1. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+1. [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
+1. [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
+1. [TSLint Vue](https://marketplace.visualstudio.com/items?itemName=prograhammer.tslint-vue)
+1. [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+1. [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## Terminal
 
@@ -43,7 +44,7 @@ If you’re curious about a setting, extension, theme, or font that you may see 
 
 ## Operating System and Hardware
 
-I use a 2017 15-inch [MacBook Pro](https://www.apple.com/macbook-pro/) with the [macOS Mojave](https://www.apple.com/macos/mojave/) operating system. I plug my machine into a [CalDigit USB-C Docking Station](https://caldigit.com/usb-3-1-usb-c-dock/) and two [Dell Ultra HD 4K P2715Q](https://www.dell.com/en-us/shop/accessories/apd/210-agnk) monitors. I use the [Rain Design mStand](https://www.raindesigninc.com/mstand.html) to keep all of this organized and tidy. I hit keys on the [Apple Magic Keyboard](https://www.apple.com/shop/product/MRMH2LL/A/magic-keyboard-with-numeric-keypad-us-english-space-gray?fnode=4c) and can’t live without my [Logitech G900 Chaos Spectrum Mouse](https://www.logitechg.com/en-us/products/gaming-mice/g903-wireless-gaming-mouse.html), which rests on a sizable [G440 Mouse Pad](https://www.logitechg.com/en-us/products/gaming-mouse-pads/g440-hard-gaming-mouse-pad.html).
+I use a 2017 15-inch [MacBook Pro](https://www.apple.com/macbook-pro/) with the [macOS Catalina](https://www.apple.com/macos/catalina/) operating system. I plug my machine into a [CalDigit USB-C Docking Station](https://caldigit.com/usb-3-1-usb-c-dock/) and two [Dell Ultra HD 4K P2715Q](https://www.dell.com/en-us/shop/accessories/apd/210-agnk) monitors. I use the [Rain Design mStand](https://www.raindesigninc.com/mstand.html) to keep all of this organized and tidy. I hit keys on the [Apple Magic Keyboard](https://www.apple.com/shop/product/MRMH2LL/A/magic-keyboard-with-numeric-keypad-us-english-space-gray?fnode=4c) and can’t live without my [Logitech G900 Chaos Spectrum Mouse](https://www.logitechg.com/en-us/products/gaming-mice/g903-wireless-gaming-mouse.html), which rests on a sizable [Blade Hawks Mouse Pad](https://www.amazon.com/dp/B075ZN8H26).
 
 ## Recording
 
