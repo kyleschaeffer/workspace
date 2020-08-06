@@ -31,6 +31,7 @@ If you’re curious about a setting, extension, theme, or font that you may see 
 1. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 1. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+1. [Simple New File](https://marketplace.visualstudio.com/items?itemName=fayras.simple-new-file)
 1. [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 1. [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 1. [TSLint Vue](https://marketplace.visualstudio.com/items?itemName=prograhammer.tslint-vue)
